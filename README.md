@@ -1,4 +1,4 @@
-# B Cell Epitope Benchmark datasets
+# B-Cell Epitope prediction benchmark datasets
 
 Here we provided the structure we use for the benchmarking of the B-Cell epitope prediction in the paper "Critical review of conformational B-cell epitope prediction methods"
 
