@@ -7,4 +7,5 @@ Here we provided the structure we use for the benchmarking of the B-Cell epitope
 - quality_filtered_dataset.txt: List of all 1151 PDB structures used in the general B-Cell epitope prediction evaluation
 - final_benchmark_dataset.txt: List of all 286 PDB structures used in the general B-Cell epitope prediction evaluation
 - PDB: Directory of all PDB structures used in the benchmark and listed in quality_filtered_dataset.txt
+- Antigen_zip: csv tables with information about the residues of each PDB. The last column corresponds to the epitope/non-epitope label.
 
